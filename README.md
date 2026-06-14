@@ -8,7 +8,7 @@ Includes:
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Import the scripts into your Unity project (`Scripts/Controllers`).  
 2. Ensure your project uses the **Unity Input System** (Edit → Project Settings → Player → Active Input Handling → `Input System Package (New)`).  
@@ -16,7 +16,7 @@ Includes:
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 ### Required Components
 The **Player GameObject** must contain:
@@ -68,7 +68,7 @@ Assign audio clips in the **PlayerController** inspector:
 
 ---
 
-## 🕹️ Controls (Default)
+## Controls (Default)
 - **WASD** → Move  
 - **Mouse** → Look around  
 - **Space** → Jump  
@@ -78,7 +78,7 @@ Assign audio clips in the **PlayerController** inspector:
 
 ---
 
-## 🔧 Customization
+## Customization
 - **CameraController** → sensitivity, offset, distance, rotation limits.  
 - **PlayerController** → speeds, gravity, smoothing, roll duration, animation parameters.  
 - **InputManager** → easily remap to new Input Actions.  
